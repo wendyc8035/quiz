@@ -9,6 +9,25 @@ $(document).ready(function() {
         var q2Result = $("#question2").val();
         var q3Result = $("#question3").val();
         var totalScore;
+        var monkey;
+        var cat;
+        var dog;
+        var 
     });
 
 });
+function one(a){
+    
+    
+}
+
+
+function two(b){
+    
+    
+}
+
+function three(c){
+    
+    
+}
